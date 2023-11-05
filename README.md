@@ -1,4 +1,4 @@
-# android lifecycle
+# Android Lifecycle
 - class Activity memiliki sejumlah callback yg berfungsi menentukan perilaku saat pengguna keluar dan memasuki aktivitas
 
 - penerapan callback dapat menghindari error ketiak pengguna menerima telp atau beralih ke apk lain, menghindari penggunaan sumber daya sistem yg berharga, menghindari kehilangan progres pengguna ketika pengguna keluar dari apk, menghindari error/kehilangan progres pengguna ketika layar diputar menjadi lanskap dan potret
